@@ -12,7 +12,7 @@
 ?>
 
 	<footer id="colophon" class="site-footer">
-		<div class="site-info container">
+		<div class="site-info container class">
 			<?php if ( is_active_sidebar( 'footer-sidebar-one' ) ) : ?>
 			<div class="footer-item">
 				<?php dynamic_sidebar( 'footer-sidebar-one' ); ?>
